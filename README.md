@@ -6,28 +6,28 @@
 
 ### GuideBook
 ##### stored procedure (return table)
-- [usp_TaiwanReport](https://github.com/JaneChengYiChen/SQLQuerySet/usp_TaiwanReport) 
+- [usp_TaiwanReport](https://github.com/JaneChengYiChen/SQLQuerySet/blob/main/usp_TaiwanReport) 
 
 
 ##### loop in one table
-- [view_FindRelations](https://github.com/JaneChengYiChen/SQLQuerySet/view_FindRelations)
+- [view_FindRelations](https://github.com/JaneChengYiChen/SQLQuerySet/blob/main/view_FindRelations)
 
 
 ##### SUM(A) OVER (PARTITION BY B ORDER BY C) 
-- [view_BonusRateWithRelations](https://github.com/JaneChengYiChen/SQLQuerySet/view_BonusRateWithRelations) 
+- [view_BonusRateWithRelations](https://github.com/JaneChengYiChen/SQLQuerySet/blob/main/view_BonusRateWithRelations) 
 
 
 ##### ROW_NUMBER() OVER (PARTITION BY B ORDER BY C) 
-- [view_FindDistrict](https://github.com/JaneChengYiChen/SQLQuerySet/view_FindDistrict)
+- [view_FindDistrict](https://github.com/JaneChengYiChen/SQLQuerySet/blob/main/view_FindDistrict)
 
 
 ##### POWER() 
 - 平方根
-- [view_BonusRateWithRelations](https://github.com/JaneChengYiChen/SQLQuerySet/view_BonusRateWithRelations) 
+- [view_BonusRateWithRelations](https://github.com/JaneChengYiChen/SQLQuerySet/blob/main/view_BonusRateWithRelations) 
 
 
 ##### Format
-- [usp_TaiwanReport](https://github.com/JaneChengYiChen/SQLQuerySet/usp_TaiwanReport) 
+- [usp_TaiwanReport](https://github.com/JaneChengYiChen/SQLQuerySet/blob/main/usp_TaiwanReport) 
 
 
 
