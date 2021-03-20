@@ -13,6 +13,10 @@
 - [view_FindRelations](https://github.com/JaneChengYiChen/SQLQuerySet/blob/main/view_FindRelations.sql)
 
 
+##### pivot table
+- [query_SalesmanFeatMonthly](https://github.com/JaneChengYiChen/SQLQuerySet/blob/main/query_SalesmanFeatMonthly.sql)
+
+
 ##### SUM(A) OVER (PARTITION BY B ORDER BY C) 
 - [view_BonusRateWithRelations](https://github.com/JaneChengYiChen/SQLQuerySet/blob/main/view_BonusRateWithRelations.sql) 
 
